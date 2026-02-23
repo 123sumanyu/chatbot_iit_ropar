@@ -1,0 +1,10 @@
+flask
+gunicorn
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+huggingface-hub
+pypdf
+markdown
